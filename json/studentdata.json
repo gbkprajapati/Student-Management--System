@@ -1,0 +1,54 @@
+{
+    "06-22-2017": [
+                   {
+                    "sname" : "John",
+                    "inoutime" : [{
+                      "sin": "9:00am",
+                      "sout": "10:00am"
+                    },
+                    {
+                      "sin": "11:00am",
+                      "sout": "12:00am"
+                    }]
+
+                  },
+
+                  {
+                    "sname" : "Meet",
+                    "inoutime" : [{
+                      "sin": "12:00am",
+                      "sout": "04:00am"
+                    },
+                    {
+                      "sin": "11:00am",
+                      "sout": "12:00am"
+                    }]
+
+                  }, 
+
+                   {
+                    "sname" : "Jeet",
+                    "inoutime" : [{
+                      "sin": "12:00am",
+                      "sout": "04:00am"
+                    },
+                    {
+                      "sin": "11:00am",
+                      "sout": "12:00am"
+                    }]
+
+                  },
+                   {
+                    "sname" : "Prem",
+                    "inoutime" : [{
+                      "sin": "12:00am",
+                      "sout": "04:00am"
+                    },
+                    {
+                      "sin": "11:00am",
+                      "sout": "12:00am"
+                    }]
+
+                  }
+                ]
+}

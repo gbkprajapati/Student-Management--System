@@ -1,16 +1,29 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="studentApp">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Student Applcaiton</title>
-	<link rel="stylesheet" href="">
+	<title>Student Application</title>
+	 <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular.min.js"></script>	
+	<script src="http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.10.0.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+
+   
+
 </head>
-<body>
+<body ng-controller="studentCtrl">
 	
 
-	<div class="container">
+	<div class="container" >
 		<h1>Student Management System </h1>
+		<hr>
+
+		<p>Name is  : {{name}}</p>	
+
+
+
 	</div><!-- Main start div  Here-->	
 
 
